@@ -1,5 +1,5 @@
 package goapi
 
 func Hello() string {
-	return "Hello"
+	return "Hello 123"
 }
