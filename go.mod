@@ -1,4 +1,4 @@
-module goapi
+module github.com/leandrozanin/go-api
 
 go 1.13
 
